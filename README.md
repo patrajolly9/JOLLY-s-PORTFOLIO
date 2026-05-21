@@ -5,5 +5,6 @@ My name is Jolly Namubiru, am cyber security major at Wentowrth Institute of Tec
 
 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+https://www.linkedin.com/in/jolly-namubiru/
 
 
